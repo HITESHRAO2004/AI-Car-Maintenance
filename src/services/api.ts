@@ -1,6 +1,6 @@
 import { ApiResponse, RawApiResponse, SensorData, SensorDataWrapper } from '../types/api';
 
-const API_URL = 'http://127.0.0.1:5000/api/predict';
+const API_URL = 'https://ai-car-maintenance.onrender.com/api/predict';
 const MAX_RETRIES = 3;
 const RETRY_DELAY = 2000;
 
