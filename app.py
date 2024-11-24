@@ -18,7 +18,7 @@ if not hasattr(model, "predict"):
 app = Flask(__name__)
 
 # Enable CORS for all routes
-CORS(app, origins="*", methods=["GET", "POST", "OPTIONS"])
+CORS(app)
 
 @app.route('/', methods=['GET'])
 def home():
