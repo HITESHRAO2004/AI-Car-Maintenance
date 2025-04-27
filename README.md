@@ -1,4 +1,4 @@
-![{B7CE5ACE-0AC0-4774-B068-031785AA8999}](https://github.com/user-attachments/assets/254bee21-d018-4066-8a67-6bf039847c34)
+
 
 # Car Predictive Maintenance System
 
